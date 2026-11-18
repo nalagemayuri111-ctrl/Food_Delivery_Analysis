@@ -34,7 +34,6 @@ Delivery time is a key measure of service quality for food delivery platforms. I
 - **City type:** Semi-Urban deliveries take the longest, about 50 minutes on average, compared with about 27 in Metropolitan and 23 in Urban areas.
 - **Order type makes almost no difference:** meals, snacks, buffets and drinks all average about 26 minutes.
 - **Motorcycles** handle the most deliveries, followed by scooters, electric scooters and bicycles.
-- [Add one insight on weather, from your own analysis]
 
 ## Dashboard Preview
 
