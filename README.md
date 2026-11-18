@@ -38,7 +38,7 @@ Delivery time is a key measure of service quality for food delivery platforms. I
 
 ## Dashboard Preview
 
-![Food Delivery Analytics Dashboard](images/dashboard.png)
+![Main Window](screenshots/Dashboard.png)
 
 ## Repository Files
 
